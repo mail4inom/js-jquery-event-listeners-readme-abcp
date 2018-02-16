@@ -1,5 +1,5 @@
 //define functions here
-$("p").on("clicked", function(){
+$("p").on("click", function(){
 alert("Hey!")
 })
 $(document).ready(function(){
