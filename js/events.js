@@ -1,6 +1,6 @@
 //define functions here
 $("p").on("click", function(){
-  if(click === "click"){
+  if("click" === "click"){
 alert("Hey!")}
 })
 $(document).ready(function(){
