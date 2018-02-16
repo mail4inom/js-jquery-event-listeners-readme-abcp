@@ -1,6 +1,7 @@
 //define functions here
 $("p").on("click", function(){
-alert("Hey!")
+alert("Hey!");
+return;
 })
 $(document).ready(function(){
 
